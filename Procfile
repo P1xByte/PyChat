@@ -1,1 +1,0 @@
-web: pywebio app:app
